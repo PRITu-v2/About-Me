@@ -47,7 +47,7 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Become Python GameDev In 2 Min (Full Course) *](https://www.youtube.com/watch?v=1uel0vIMyFU)
+- [make a game in python In 2 Min (Full Course) *](https://www.youtube.com/watch?v=1uel0vIMyFU)
 - [Every Programming Tutorials in 2021...](https://www.youtube.com/watch?v=K6ykZIVDk0o)
 - [Draw Virus Using Turtle In Python | #python](https://www.youtube.com/watch?v=aM8MdHzWyPQ)
 - [Amazing Live Clock Using HTML/CSS/JS | Easy & Beautiful.](https://www.youtube.com/watch?v=bp_Leru2L9w)
