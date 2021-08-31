@@ -43,8 +43,8 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Introduction to Meta tags, links, title, script |  Web development Tutorial #2](https://www.youtube.com/watch?v=koVz_kPXHqs)
-- [Introduction to HTML, CSS, JS & Web Basics | Web Development Tutorial #1](https://www.youtube.com/watch?v=Yn2e7P67Xmg)
+- [HTML Tutorials - Intro to Meta tags, links, title, script |  Web development #2](https://www.youtube.com/watch?v=koVz_kPXHqs)
+- [HTML Tutorials - Intro to HTML, CSS, JS & Web Basics | Web Development #1](https://www.youtube.com/watch?v=Yn2e7P67Xmg)
 - [Tilt Effect in Button Using Tilt.js](https://www.youtube.com/watch?v=B5DNYGEFwJc)
 - [Draw Swiggy Logo In Python Using Turtle.](https://www.youtube.com/watch?v=_UWe7y9aYW0)
 - [Draw a Pikachu In Python Using Turtle](https://www.youtube.com/watch?v=5QItvKKfej0)
