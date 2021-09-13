@@ -17,16 +17,13 @@
 <br>
   
 Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming a lot. I've created websites, Discord bots, etc. I am a self taught developer and I have been programming for 5 years mostly focusing on design & codes.
-  
-<a href="https://discord.c99.nl/widget/theme-4/741549223127941170.png"><img src="https://discord.c99.nl/widget/theme-4/741549223127941170.png"></a>
 <br>
   
-<a align="center" href="https://discord.io/prituhq" >
-</a>
+<p align="center" href="https://discord.io/prituhq" >
+ <img src="https://discord.c99.nl/widget/theme-4/741549223127941170.png">
+</p>
                                                                                         
 </p>
-<br>
-<br>
 
 <details align="center">
 <img src="https://komarev.com/ghpvc/?username=pritudev&color=blueviolet">
@@ -48,7 +45,7 @@ Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming
 
 <h3 align="center">📺 Latest YouTube Videos</h3>
 
-<p aling="center">
+<p align="center">
   
 <!-- YOUTUBE:START -->
 - [🔥🔥 5 HTML Tags you Didn't Know!](https://www.youtube.com/watch?v=OjtT3mlN1i4)
@@ -58,7 +55,7 @@ Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming
 - [Dark Theme / Light Theme Toggle // Theme Toggle Using HTML, CSS, JavaScript](https://www.youtube.com/watch?v=hTsqeA-7pEo)
 <!-- YOUTUBE:END -->
   
-  </p>
+</p>
 
 
 
