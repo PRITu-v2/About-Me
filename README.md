@@ -1,6 +1,6 @@
-<font size="10">
-<h1 align="center"> Hey, I'm pritu 👋</h1>
-</font>
+
+<h1 style="font-size:100px;" align="center"> Hey, I'm pritu 👋</h1>
+
 
 <h4 align="center">Full Stack Web Developer & YouTuber </h4>
 
@@ -25,7 +25,13 @@ Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming
 <p align="center" href="https://discord.io/prituhq" >
  <img src="https://discord.c99.nl/widget/theme-4/741549223127941170.png">
 </p>
-                                                                                        
+
+<a href="https://github.com/pritudev/pritudev.me">
+<p align="center" href="https://discord.io/prituhq" >
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=pritudev&repo=pritudev.me"/>
+</p>
+</a>
+
 </p>
 
 <details align="center">
